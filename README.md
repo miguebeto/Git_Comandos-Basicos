@@ -12,3 +12,4 @@
 10. Git branch -d rama-heroes
 11. Git push
 12. Git commit -am
+13. Git status
