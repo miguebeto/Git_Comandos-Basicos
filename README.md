@@ -23,3 +23,5 @@
 21. git add <lista de archivos> (agrega los archivos que listemos)
 22. git add pdfs/*.pdf (agrega los pdfs dentro de la carpeta pdfs)
 23. git add pdfs/ (agrega los archivos dentro de la carpeta pdfs)
+24. git rebase -i idcommit (editar commit creados)
+25. git rebase --continue (confirmar cambios)
