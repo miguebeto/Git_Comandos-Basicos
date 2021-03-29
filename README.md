@@ -4,4 +4,5 @@
 2. Git init
 3. Git add .
 4. Git reset .
-5. git commit
+5. Git commit
+6. Git checkout --.
