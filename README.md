@@ -25,3 +25,4 @@
 23. git add pdfs/ (agrega los archivos dentro de la carpeta pdfs)
 24. git rebase -i idcommit (editar commit creados)
 25. git rebase --continue (confirmar cambios)
+26. git config --global alias.lg "log --oneline --decorate --all --graph"
