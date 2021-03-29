@@ -11,3 +11,4 @@
 9. Git chekout master
 10. Git branch -d rama-heroes
 11. Git push
+12. Git commit -am
