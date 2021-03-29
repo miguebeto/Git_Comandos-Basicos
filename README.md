@@ -17,3 +17,9 @@
 15. Git clone https://github.com/miguebeto/Git_Comandos-Basicos newNombre
 16. Git config --global user.name "miguebeto"
 17. Git config --global user.email "miguelangell1994@hotmail.com"
+18. git add ".txt" (agrega los txt de todo el proyecto)
+19. git add .txt (agrega los txt del directorio actual)
+20. git add --all (agrega los archivos del proyecto)
+21. git add <lista de archivos> (agrega los archivos que listemos)
+22. git add pdfs/*.pdf (agrega los pdfs dentro de la carpeta pdfs)
+23. git add pdfs/ (agrega los archivos dentro de la carpeta pdfs)
