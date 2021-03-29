@@ -9,3 +9,5 @@
 7. Git commit --amend
 8. Git checkout -b rama-heroes
 9. Git chekout master
+10. Git branch -d rama-heroes
+11. Git push
