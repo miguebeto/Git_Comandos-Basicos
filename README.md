@@ -16,4 +16,4 @@
 14. GIt diff
 15. Git clone https://github.com/miguebeto/Git_Comandos-Basicos newNombre
 16. Git config --global user.name "miguebeto"
-17. Git config --global user.email "miguelangell1994@hotmai.com"
+17. Git config --global user.email "miguelangell1994@hotmail.com"
