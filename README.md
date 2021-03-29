@@ -1,8 +1,10 @@
 #comandos útiles de Git
 
 1. Git init
-2. Git init
-3. Git add .
-4. Git reset .
-5. Git commit
-6. Git checkout --.
+2. Git add .
+3. Git reset .
+4. Git commit
+5. Git checkout -- .
+6. Git log
+7. Git commit --amend
+8. git checkout -b rama-heroes
