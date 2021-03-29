@@ -13,4 +13,5 @@
 11. Git push
 12. Git commit -am
 13. Git status
-14. git clone https://github.com/miguebeto/Git_Comandos-Basicos newNombre
+14. GIt diff
+15. Git clone https://github.com/miguebeto/Git_Comandos-Basicos newNombre
