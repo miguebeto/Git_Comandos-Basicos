@@ -27,3 +27,5 @@
 25. Git rebase --continue (confirmar cambios)
 26. Git config --global alias.lg "log --oneline --decorate --all --graph"
 27. Git config --global alias.s "status -s -b"
+28. Git checkout id_commit
+29. Git checkout main
