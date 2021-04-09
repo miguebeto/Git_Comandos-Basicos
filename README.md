@@ -29,3 +29,4 @@
 27. Git config --global alias.s "status -s -b"
 28. Git checkout id_commit
 29. Git checkout main
+30. Git merge rama_origen
