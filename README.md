@@ -30,3 +30,4 @@
 28. Git checkout id_commit
 29. Git checkout main
 30. Git merge rama_origen
+31. Git remote add origin https://github.com/miguebeto/Api-Rest
